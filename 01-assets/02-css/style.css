@@ -15,6 +15,10 @@ main{
     margin-top: 151px;
 }
 
+h3{
+    display: none;
+}
+
 .contents{
     padding: 70px 119px 50px 70px;
 }
